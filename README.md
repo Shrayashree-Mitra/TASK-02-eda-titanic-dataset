@@ -5,9 +5,6 @@ Data cleaning and exploratory data analysis using Python, followed by visualizat
 ## Overview
 This project focuses on cleaning and analyzing a dataset using Python and presenting insights through data visualization. The main objective of this task was to understand the dataset, handle data quality issues, and extract meaningful insights using exploratory data analysis techniques.
 
-## Dataset
-The dataset used in this task contains structured data relevant to the problem statement provided in the internship. Before analysis, the dataset required cleaning to ensure accuracy and consistency.
-
 ## Tools and Technologies Used
 - Python
 - Pandas
@@ -24,3 +21,8 @@ The dataset used in this task contains structured data relevant to the problem s
 
 ## Outcome
 Through this task, the dataset was transformed into a clean and analysis-ready format. The exploratory analysis and visualizations helped in understanding trends, patterns, and relationships within the data
+
+## Key Insights
+- Higher survival rates were observed among female passengers.
+- First class passengers had better survival outcomes.
+- Younger passengers showed slightly higher survival probability
