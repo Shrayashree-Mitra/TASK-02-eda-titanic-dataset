@@ -18,11 +18,14 @@ Ensured consistent data types and valid values
 Prepared the cleaned dataset for Power BI analysis
 # Key Insights
 Out of 884 passengers, only 335 survived, while 549 did not, indicating an overall survival rate of less than 40%.
-Passenger class had a significant impact on survival-- First-class passengers had a much higher survival rate, while third-class passengers experienced the highest number of fatalities.
-Gender played a critical role in survival outcomes.-- Female passengers had a substantially higher survival rate compared to male passengers.
+Passenger class had a significant impact on survival
+First-class passengers had a much higher survival rate, while third-class passengers experienced the highest number of fatalities.
+Gender played a critical role in survival outcomes.
+Female passengers had a substantially higher survival rate compared to male passengers.
 The 20–35 age group formed the largest portion of passengers and recorded the highest number of deaths.
 Children showed comparatively better survival outcomes.
-Fare amount influenced survival probability.--Passengers who paid higher fares generally had better survival rates than those in lower fare groups.
+Fare amount influenced survival probability.
+Passengers who paid higher fares generally had better survival rates than those in lower fare groups.
 Overall, socioeconomic factors, gender, and age strongly influenced survival chances.
 # Conclusion
 This exploratory analysis highlights clear survival patterns in the Titanic dataset.
